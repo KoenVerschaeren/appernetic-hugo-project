@@ -1,11 +1,10 @@
 +++
-draft = false
+draft = true
 title = "firstpost"
-date = "2017-01-26T19:08:33Z"
+date = "2017-01-26T19:00:16Z"
 
 +++
-
-First post test
+First post test
 ---------------
 
 
